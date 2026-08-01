@@ -1,0 +1,21 @@
+# Dataset and generated models
+archive/
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS metadata
+.DS_Store
+._*
+
+# Editor settings
+.vscode/
+.idea/
